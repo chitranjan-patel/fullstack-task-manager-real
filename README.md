@@ -28,7 +28,7 @@ The backend handles data and database connections.
    ```bash
    npm run dev
    ```
-   *Server will run at `http://localhost:5000`*
+   *Server will run at `http://localhost:8000`*
 
 ### 2. Frontend Setup (UI)
 The frontend is the user interface.
@@ -45,7 +45,7 @@ The frontend is the user interface.
    ```bash
    npm run dev
    ```
-   *App will run at `http://localhost:5173`*
+   *App will run at `http://localhost:5174`*
 
 ## 🌐 Deployment Note
 - **Frontend** can be deployed to netlify/vercel.
